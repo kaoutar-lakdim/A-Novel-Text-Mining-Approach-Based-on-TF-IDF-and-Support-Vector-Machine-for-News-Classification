@@ -53,6 +53,12 @@ In this project, we have compared the results obtained from our generated model 
 
 <img width="285" alt="Screenshot 2023-07-15 at 01 12 03" src="https://github.com/Yassine-Squalli-Houssaini/A-Novel-Text-Mining-Approach-Based-on-TF-IDF-and-Support-Vector-Machine-for-News-Classification/assets/127676452/88300fec-a6ab-41c6-8d35-3c86c9924bc0">
 
+## Critique of the Work
+The described approach does not take into account other more recent and advanced techniques that have emerged in the field of natural language processing, such as deep neural networks or knowledge transfer from pre-trained models. The use of these more modern approaches could improve classification performance and allow for better capturing of semantics and contextual relationships in the documents. Therefore, while the TF-IDF and SVM-based approach is commonly used, it may have limitations in terms of semantic representation and sensitivity to parameters.
+
+## Conclusion
+In conclusion, the results obtained for both datasets (BBC and 20 Newsgroups) demonstrate a very high accuracy of the classification model. This indicates that the model is capable of accurately predicting the classes of the test data. High accuracy is a positive indicator of the model's performance and attests to its effectiveness in the classification task. These results reinforce confidence in the use of the model for prediction and classification tasks.
+
 
 
 
