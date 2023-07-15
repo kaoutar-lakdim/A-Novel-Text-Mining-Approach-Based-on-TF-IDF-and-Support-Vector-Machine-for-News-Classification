@@ -22,3 +22,36 @@ TF-IDF (Term Frequency-Inverse Document Frequency) is a statistical measure that
 SVM (Support Vector Machine) is a supervised learning algorithm used for classification. It seeks to find a hyperplane that best separates the different classes. It is effective even with non-linearly separable data through the use of kernel functions.
 
 By using TF-IDF to extract document features and SVM for classification, we obtain a system capable of classifying documents based on their important characteristics. TF-IDF captures semantic aspects, and SVM finds the best separation between classes.
+
+## Evaluation Metrics:
+
+To assess the performance we employed several evaluation metrics, including:
+
+- **Accuracy:** The percentage of correctly classified news articles by the model.
+- **Precision:** The proportion of true positive predictions out of all positive predictions made by the model.
+- **Recall:** The proportion of true positive predictions out of all actual positive instances in the dataset.
+- **F1 Score:** A metric that combines precision and recall to provide a balanced evaluation of the model's performance.
+
+## Comparison between Model Results and Reference Model:
+
+In this project, we have compared the results obtained from our generated model with those of a reference model. The purpose of this comparison was to evaluate the performance and effectiveness of our approach for news article classification using TF-IDF features and SVM.
+## Approach:
+
+1. **Generated Model:** Our generated model followed the steps outlined in the previous section. It involved text preprocessing, train/test split, feature extraction using TF-IDF, and classification using SVM.
+
+2. **Reference Model:** The reference model served as a benchmark for comparison. 
+
+
+## For The BBC dataset:
+
+<img width="427" alt="Screenshot 2023-07-15 at 01 09 21" src="https://github.com/Yassine-Squalli-Houssaini/A-Novel-Text-Mining-Approach-Based-on-TF-IDF-and-Support-Vector-Machine-for-News-Classification/assets/127676452/34b73124-2eab-4c3e-ab7a-c68758c2624c">
+
+## For The 20 Newsgroups dataset:
+
+<img width="412" alt="Screenshot 2023-07-15 at 01 11 45" src="https://github.com/Yassine-Squalli-Houssaini/A-Novel-Text-Mining-Approach-Based-on-TF-IDF-and-Support-Vector-Machine-for-News-Classification/assets/127676452/3746d49b-ba55-466c-97db-c6b28afcae7e">
+
+<img width="285" alt="Screenshot 2023-07-15 at 01 12 03" src="https://github.com/Yassine-Squalli-Houssaini/A-Novel-Text-Mining-Approach-Based-on-TF-IDF-and-Support-Vector-Machine-for-News-Classification/assets/127676452/88300fec-a6ab-41c6-8d35-3c86c9924bc0">
+
+
+
+
