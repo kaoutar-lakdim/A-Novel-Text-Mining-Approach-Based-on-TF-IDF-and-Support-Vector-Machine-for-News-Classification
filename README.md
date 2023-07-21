@@ -46,7 +46,10 @@ In this project, we have compared the results obtained from our generated model 
 
 ## For The BBC dataset:
 
-<img width="427" alt="Screenshot 2023-07-15 at 01 09 21" src="https://github.com/Yassine-Squalli-Houssaini/A-Novel-Text-Mining-Approach-Based-on-TF-IDF-and-Support-Vector-Machine-for-News-Classification/assets/127676452/34b73124-2eab-4c3e-ab7a-c68758c2624c">
+<div align="center">
+  <img width="427" alt="Screenshot 2023-07-15 at 01 09 21" src="https://github.com/Yassine-Squalli-Houssaini/A-Novel-Text-Mining-Approach-Based-on-TF-IDF-and-Support-Vector-Machine-for-News-Classification/assets/127676452/34b73124-2eab-4c3e-ab7a-c68758c2624c">
+</div>
+
 
 ## For The 20 Newsgroups dataset:
 
