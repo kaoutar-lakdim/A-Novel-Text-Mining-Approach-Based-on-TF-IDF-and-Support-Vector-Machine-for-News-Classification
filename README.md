@@ -1,7 +1,7 @@
 <img src="https://github.com/Yassine-Squalli-Houssaini/A-Novel-Text-Mining-Approach-Based-on-TF-IDF-and-Support-Vector-Machine-for-News-Classification/assets/127676452/fb0cc3dd-9c6f-4924-bf67-667d21d53d42" width="3000">
 <br>
 <br>
-  
+
 
 ## Project Objective
 The objective of this study is to classify news articles into different groups based on TF-IDF (Term Frequency-Inverse Document Frequency) features, focusing specifically on data from the BBC and the 20 Newsgroups dataset.
