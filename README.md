@@ -46,14 +46,15 @@ In this project, we have compared the results obtained from our generated model 
 
 ## For The BBC dataset:
 
+<img width="364" alt="Screenshot 2023-07-21 at 18 18 03" src="https://github.com/Yassine-Squalli-Houssaini/A-Novel-Text-Mining-Approach-Based-on-TF-IDF-and-Support-Vector-Machine-for-News-Classification/assets/127676452/c9d3ccc7-6589-4c7f-a622-4a72f7cdacdd">
 
-  <img width="427" alt="Screenshot 2023-07-15 at 01 09 21" src="https://github.com/Yassine-Squalli-Houssaini/A-Novel-Text-Mining-Approach-Based-on-TF-IDF-and-Support-Vector-Machine-for-News-Classification/assets/127676452/34b73124-2eab-4c3e-ab7a-c68758c2624c">
 
 
 
 ## For The 20 Newsgroups dataset:
 
-<img width="412" alt="Screenshot 2023-07-15 at 01 11 45" src="https://github.com/Yassine-Squalli-Houssaini/A-Novel-Text-Mining-Approach-Based-on-TF-IDF-and-Support-Vector-Machine-for-News-Classification/assets/127676452/3746d49b-ba55-466c-97db-c6b28afcae7e">
+<img width="430" alt="Screenshot 2023-07-21 at 18 20 16" src="https://github.com/Yassine-Squalli-Houssaini/A-Novel-Text-Mining-Approach-Based-on-TF-IDF-and-Support-Vector-Machine-for-News-Classification/assets/127676452/93b5b00a-0746-40f9-b19c-055b6b00e639">
+
 
 <img width="285" alt="Screenshot 2023-07-15 at 01 12 03" src="https://github.com/Yassine-Squalli-Houssaini/A-Novel-Text-Mining-Approach-Based-on-TF-IDF-and-Support-Vector-Machine-for-News-Classification/assets/127676452/88300fec-a6ab-41c6-8d35-3c86c9924bc0">
 
